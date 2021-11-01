@@ -9,4 +9,16 @@ def fizzbuzz(num1, num2):
         else:
             print(number)
 
-fizzbuzz(3,7)
+fizzbuzz(3,5)
+
+# Output
+# 1 
+# 2 
+# fizz 
+# 4 
+# buzz 
+# fizz 
+# 7 
+# 8 
+# fizz
+# and so on 
